@@ -1,0 +1,77 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: 'Roboto', sans-serif;
+}
+#a{
+	height:100vh;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+.row{
+	width:50%;
+	height:50vh
+}
+.col{
+	width:100%;
+	padding:60px;
+}
+.card{
+	border:1px solid rgb(211, 211, 211);
+	padding:50px;
+	border-radius:5px;
+	background-color:#D3D3D3;
+}
+.inputdata input{
+	padding:10px 90px 10px 60px;
+	border-radius:5px;
+	border:none;
+	box-shadow:2px 2px 5px #808080;
+	
+}
+.inputdata{
+	position:relative;
+}
+.inputdata i{
+	position:absolute;
+	left:0px;
+	top:20px;
+	font-size:1.5rem;
+	padding:3px 7px;
+	color:#FFF;
+	background-color:#0000FF;
+	
+}
+u{
+	color:#0000FF;
+}
+h1,.checkbox,.inputdata,.foot{
+	padding-bottom:20px;
+}
+.checkbox{
+	padding-top:20px;
+	padding-left:30px;
+}
+#tickbox{
+	border-radius:50%;
+}
+#btn{
+	padding:5px 30px;
+	border-radius:5px;
+	color:#FFF;
+	background-color:#0000FF;
+}
+.inputdata{
+	padding-top:20px;
+	padding-right:80px;
+}
+h1{
+	text-align:center;
+	font-size:2rem;
+	color:#808080;
+}
+
+
